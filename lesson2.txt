@@ -4,11 +4,13 @@ The initial commit is created and you can start using version control, and this 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-
 the staging area is in the middle of both it keeps track of the files without fully adding them to the final commit
+
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+the staging area serves as a filter
+
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
