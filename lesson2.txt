@@ -1,6 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
-
 The initial commit is created and you can start using version control, and this is necesary cuz if you dont, then you won't be able to keep trak of versions
+
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
@@ -12,8 +12,12 @@ change?
 the staging area serves as a filter
 
 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+If I want to make an experimental change or if I want to try something that i am not really sure it will work or If I just want to try something different without breaking my whole project.
+
+
 
 How do the diagrams help you visualize the branch structure?
 
