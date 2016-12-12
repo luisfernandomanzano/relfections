@@ -30,3 +30,4 @@ We are able to use the code that two people worked in and also a team is able to
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+Git can see what changes were made and automatically merge to branches to create a new file in order to save time. But sometimes it will not be able to do it that way so user intervention is required, but this method is also a good one since we can go more in depth when it comes to select which part of the code will go into the final version aswell we are able to solve conflicts manually so it is not necessary to run the risk to trusting a computer to do it.
