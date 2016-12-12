@@ -26,6 +26,7 @@ It helps me by not getting lost amogst my branches and files and easyli visualiz
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+We are able to use the code that two people worked in and also a team is able to work seamlessly together. And the diagram is that way so it is earier to visualize and understand
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
